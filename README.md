@@ -18,3 +18,11 @@
 1. 3 самых частотных модификаторы существительного "question".
 
 ![](https://github.com/barchukstacy/hw6/blob/master/hw6_2.1%20(question).png)
+
+2. Употребление двух синонимичных глаголов "answer" и "permit" с дополнениями (objects)
+![](https://github.com/barchukstacy/hw6/blob/master/hw6_2.2%20(alllow%2C%20permit).png)
+
+Смотря на таблицу, можно сделать вывод, что оба глагола могут употребляться с дополнением "time". Например, "...thermal anomalies as this would	allow	time for sustained heating to occur." и "Such arrangements have for some time been	permitted	so long as clients are fully informed of the...". 
+
+А вот с дополнением "underlease" может употребляться только один глагол из представленных- "permit". К примеру,"...matters to be considered in connection with a	permitted	underlease (not the least of which being as to...". Более того, в Scetch Engine, судя по данным из этой таблицы, нет ни одного зарегистрированного случая использования словосочетания "allow underlease" и его вариаций.
+

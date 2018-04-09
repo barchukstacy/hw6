@@ -26,3 +26,20 @@
 
 А вот с дополнением "underlease" может употребляться только один глагол из представленных- "permit". К примеру,"...matters to be considered in connection with a	permitted	underlease (not the least of which being as to...". Более того, в Scetch Engine, судя по данным из этой таблицы, нет ни одного зарегистрированного случая использования словосочетания "allow underlease" и его вариаций.
 
+3. Бонусное задание.
+
+В Trends (BNC) я выбрала одно из слов- "award".
+![](https://github.com/barchukstacy/hw6/blob/master/BNC%20trends%20(award).png)
+
+Затем построила график частотности употребления этого слова в Google Ngram Viewer.
+![](https://github.com/barchukstacy/hw6/blob/master/award%20google%20ngram%20viewer.png)
+
+Исходя из графика, таблица и некотрых числовых единиц, действительно, можно наблюдать резкий рост частотности этого слова.
+
+![](https://github.com/barchukstacy/hw6/blob/master/Frequency%20list%20(award).png)
+![](https://github.com/barchukstacy/hw6/blob/master/1970.png)
+![](https://github.com/barchukstacy/hw6/blob/master/2000.png)
+В промежуток за 30 лет: с 1970 до 2000, процент употребления повысился на приличные 0,005586477%.
+
+Данные о росте частоты употреблений этого слова в BNC и Google Ngrams Viewer, по моему мнению, приблизительно пропорционально равны. Увеличение числа употреблений слова больше, чем в два раза во Frequency list закономерно отражен и на графике Google Ngrams.
+
